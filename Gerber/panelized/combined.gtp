@@ -1,0 +1,251 @@
+%MOIN*%
+%OFA0B0*%
+%FSLAX46Y46*%
+%IPPOS*%
+%LPD*%
+%ADD10R,0.0475590157480315X0.06936220472440946*%
+%ADD21R,0.0475590157480315X0.06936220472440946*%
+%ADD22R,0.0475590157480315X0.06936220472440946*%
+%ADD23R,0.0475590157480315X0.06936220472440946*%
+%ADD24R,0.0475590157480315X0.06936220472440946*%
+%ADD25R,0.0475590157480315X0.06936220472440946*%
+%ADD26R,0.0475590157480315X0.06936220472440946*%
+%ADD27R,0.0475590157480315X0.06936220472440946*%
+%ADD28R,0.0475590157480315X0.06936220472440946*%
+%ADD29R,0.0475590157480315X0.06936220472440946*%
+%ADD30R,0.0475590157480315X0.06936220472440946*%
+%ADD31R,0.0475590157480315X0.06936220472440946*%
+%ADD32R,0.0475590157480315X0.06936220472440946*%
+%ADD33R,0.0475590157480315X0.06936220472440946*%
+%ADD34R,0.0475590157480315X0.06936220472440946*%
+%ADD35R,0.0475590157480315X0.06936220472440946*%
+D10*
+X0000000000Y0003937007D02*
+X0000035480Y0003838582D03*
+X0000279480Y0003838582D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D21*
+X0000393700Y0003937007D02*
+X0000429181Y0003838582D03*
+X0000673181Y0003838582D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D22*
+X0000787401Y0003937007D02*
+X0000822881Y0003838582D03*
+X0001066881Y0003838582D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D23*
+X0000000000Y0003543307D02*
+X0000035480Y0003444881D03*
+X0000279480Y0003444881D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D24*
+X0000393700Y0003543307D02*
+X0000429181Y0003444881D03*
+X0000673181Y0003444881D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D25*
+X0000000000Y0003149606D02*
+X0000035480Y0003051181D03*
+X0000279480Y0003051181D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D26*
+X0000393700Y0003149606D02*
+X0000429181Y0003051181D03*
+X0000673181Y0003051181D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D27*
+X0000787401Y0003149606D02*
+X0000822881Y0003051181D03*
+X0001066881Y0003051181D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D28*
+X0000787401Y0003543307D02*
+X0000822881Y0003444881D03*
+X0001066881Y0003444881D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D29*
+X0001181102Y0003937007D02*
+X0001216582Y0003838582D03*
+X0001460582Y0003838582D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D30*
+X0001181102Y0003543307D02*
+X0001216582Y0003444881D03*
+X0001460582Y0003444881D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D31*
+X0001181102Y0003149606D02*
+X0001216582Y0003051181D03*
+X0001460582Y0003051181D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D32*
+X0000000000Y0002755905D02*
+X0000035480Y0002657480D03*
+X0000279480Y0002657480D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D33*
+X0000393700Y0002755905D02*
+X0000429181Y0002657480D03*
+X0000673181Y0002657480D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D34*
+X0000787401Y0002755905D02*
+X0000822881Y0002657480D03*
+X0001066881Y0002657480D03*
+G04 next file*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2021-04-29T13:46:15+02:00*
+G04 #@! TF.ProjectId,Hivetracker,48697665-7472-4616-936b-65722e6b6963,rev?*
+G04 #@! TF.SameCoordinates,PX2562500PY28a0640*
+G04 #@! TF.FileFunction,Paste,Top*
+G04 #@! TF.FilePolarity,Positive*
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2021-04-29 13:46:15*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+D35*
+X0001181102Y0002755905D02*
+X0001216582Y0002657480D03*
+X0001460582Y0002657480D03*
+M02*
