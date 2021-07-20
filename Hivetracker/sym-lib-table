@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name VBPW34S)(type Legacy)(uri "D:/temp workspace/HTC_Vive_Sensors-master/ul_VBPW34S/KiCAD/VBPW34S.lib")(options "")(descr ""))
+  (lib (name TS4321)(type Legacy)(uri "D:/temp workspace/HTC_Vive_Sensors-master/TS4231/TS4321.lib")(options "")(descr ""))
+  (lib (name Hivetracker-rescue)(type Legacy)(uri ${KIPRJMOD}/Hivetracker-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TS4231)(type KiCad)(uri "D:/temp workspace/HTC_Vive_Sensors-master/TS4231/TS4231.pretty")(options "")(descr ""))
+  (lib (name VPW34S)(type KiCad)(uri "D:/temp workspace/HTC_Vive_Sensors-master/ul_VBPW34S/KiCAD/footprints.pretty")(options "")(descr ""))
+)
